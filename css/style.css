@@ -227,12 +227,10 @@ a.theme-btn:hover {
 }
 .is-sticky .header-logo {
 }
-.is-sticky .header-logo img {
-    width: 100px;
-}
+
 .header-logo img {
     transition: all 0.3s ease 0s;
-    width: 112px;
+    
 }
 
 .header-logo {
