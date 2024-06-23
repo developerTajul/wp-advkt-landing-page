@@ -37,7 +37,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 a {
-  color: #ff5300;
+  color: #CDB091;
   text-decoration: none;
   transition: all 0.3s ease 0s;
 }
@@ -102,24 +102,24 @@ a.theme-btn {
   transition: all 0.3s ease-in-out 0s;
 }
 a.theme-btn:hover {
-  background-color: #ff5300;
+  background-color: #CDB091;
   color: #ffffff !important;
 }
-.theme-btn {border: 1px solid #ff5300;color: #ff5300 }
+.theme-btn {border: 1px solid #CDB091;color: #CDB091 }
 .theme-color, .primary-menu > ul > li:hover > a,
 .primary-menu > ul > li.current > a {
-    color: #ff5300;
+    color: #CDB091;
 }
 .by-themes {
-  background: #ff5300 none repeat scroll 0 0;
-  border: 1px solid #ff5300;
+  background: #CDB091 none repeat scroll 0 0;
+  border: 1px solid #CDB091;
 }
 .by-themes:hover {
   background-color: rgba(0, 0, 0, 0);
-  color: #ff5300 !important;
+  color: #CDB091 !important;
 }
 .header-inner {
-  background: rgba(0, 0, 0, 0) url("../images/section-bg/header.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("../images/banner.png") no-repeat scroll center top / cover ;
   padding: 50px 0;
 }
 .primary-menu > ul > li {
@@ -313,7 +313,7 @@ a.theme-btn:hover {
     13. Scroll To Top
 ----------------------------------------*/
 #scrollUp {
-  background:  #ff5300 none repeat scroll 0 0;
+  background:  #CDB091 none repeat scroll 0 0;
   border-radius: 2px;
   bottom: 80px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -398,7 +398,7 @@ a.theme-btn:hover {
   margin-bottom: 0;
 }
 .fe-icon {
-    color: #ff5300;
+    color: #CDB091;
     float: left;
     font-size: 28px;
     text-align: center;
@@ -425,7 +425,7 @@ a.theme-btn:hover {
   min-height: 115px;
 }
 .footer-area {
-    background: rgba(0, 0, 0, 0) url("../images/section-bg/footer.jpg") no-repeat scroll center top / cover ;
+    background: rgba(0, 0, 0, 0.9)  no-repeat scroll center center / cover ;
 }
 .footer-top-inner{
   padding: 75px 0;
@@ -441,7 +441,7 @@ a.theme-btn:hover {
     margin-bottom: 25px;
 }
 .social-midea li a {
-    background: #ff5300 none repeat scroll 0 0;
+    background: #CDB091 none repeat scroll 0 0;
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 2px;
     color: #ffffff;
@@ -456,8 +456,8 @@ a.theme-btn:hover {
 }
 .social-midea li a:hover {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #ff5300;
-  color: #ff5300;
+  border: 1px solid #CDB091;
+  color: #CDB091;
 }
 .single-item {
     margin-top: 50px;
